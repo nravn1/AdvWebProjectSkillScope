@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 mb-4">Welcome to the SkillScope</h1>
+        <p class="lead">Manage roles, assign skills, and keep track of the talent across your team.</p>
+        <a class="btn btn-warning btn-lg mt-3" href="/Home/about">Learn More</a>
+    </div>
+
+    <hr class="my-5">
+
+    <div class="row text-center">
+        <div class="col-md-3">
+            <i class="bi bi-person-check" style="font-size: 2rem;"></i>
+            <h4 class="mt-2">Persons</h4>
+            <p>Assign skills, privileges, and roles to employees</p>
+            <a class="btn btn-warning btn-lg mt-3" href="/Person">View Persons</a>
+        </div>
+        <div class="col-md-3">
+            <i class="bi bi-bar-chart-line" style="font-size: 2rem;"></i>
+            <h4 class="mt-2">Privileges</h4>
+            <p>View information on privileges such as desciptions, counts, and detailed list of who has it</p>
+            <a class="btn btn-warning btn-lg mt-3" href="/Privilege">View Privileges</a>
+        </div>
+        <div class="col-md-3">
+            <i class="bi bi-people" style="font-size: 2rem;"></i>
+            <h4 class="mt-2">Roles</h4>
+            <p>Assign skills to roles and see who has what position</p>
+            <a class="btn btn-warning btn-lg mt-3" href="/Role">View Roles</a>
+        </div>
+        <div class="col-md-3">
+            <i class="bi bi-people" style="font-size: 2rem;"></i>
+            <h4 class="mt-2">Skills</h4>
+            <p>View information on skills such as counts and a detailed list of who and what roles have it</p>
+            <a class="btn btn-warning btn-lg mt-3" href="/skill">View Skills</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSCI3110KRTERMPROJ.props" />
+</Project>

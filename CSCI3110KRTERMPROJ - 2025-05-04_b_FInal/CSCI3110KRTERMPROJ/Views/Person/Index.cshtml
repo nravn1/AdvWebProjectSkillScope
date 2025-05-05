@@ -1,0 +1,104 @@
+﻿@model IEnumerable<CSCI3110KRTERMPROJ.Models.ViewModels.PersonDetailsVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Person List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeCode)
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.PrivilegeCount) *@
+                Privileges
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.SkillCount) *@
+                Skills
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.RoleCount) *@
+                Roles
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeCode)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.PrivilegeCount) 
+                    <a class="btn btn-link" data-section="personprivilege" data-persontitle="@item.FName @item.LName" href="/Person/AssignPrivilege/@item.PersonId" title="Assign Privileges">&#128393;</a>
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.SkillCount)  
+                    <a class="btn btn-link" data-section="personskill" data-persontitle="@item.FName @item.LName" href="/Person/AssignSkill/@item.PersonId" title="Assign Skills">&#128393;</a>
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.RoleCount)  
+                    <a class="btn btn-link" data-section="personrole" data-persontitle="@item.FName @item.LName" href="/Person/AssignRole/@item.PersonId" title="Assign Roles">&#128393;</a>
+            </td>
+            <td>
+                <a asp-action="Update" asp-route-id="@item.PersonId" title="Edit Person">&#128393;</a> |
+                <a asp-action="Details" asp-route-id="@item.PersonId" title="Person Details">&#128269;</a> |
+                <a asp-action="Delete" asp-route-id="@item.PersonId" title="Delete Person">&#128465;</a>
+                @* <a class="btn btn-warning" href="/Person/AssignPrivilege/@item.PersonId">Assign Privilege</a> *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<partial name="_AssignPrivilegeModal" />
+<partial name="_AssignSkillModal" />
+<partial name="_AssignRoleModal" />
+
+@section Scripts {
+    <script src="~/js/personIndex.js"></script>
+}

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CSCI3110KRTERMPROJ.Models.ViewModels.RoleDetailsVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+  
+<h1>Role List </h1>
+
+<p>
+    <a asp-action="Create" title="Create New Role">Create New</a>
+</p> 
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Role Id
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                Person Count
+            </th>
+            <th>
+                Skill Count
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RolePersonCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleSkillCount)
+                <a class="btn btn-link" data-section="roleskill" data-roletitle="@item.RoleTitle" href="/Role/AssignSkill/@item.RoleId" title="Update Assigned Skills">&#128393;</a>
+            </td>
+            <td>
+                <a asp-action="Update" asp-route-id="@item.RoleId" title="Edit Role">&#128393;</a> |
+                <a asp-action="Details" asp-route-id="@item.RoleId" title="View Role Details">&#128269;</a> |
+                <a asp-action="Delete" asp-route-id="@item.RoleId" title="Delete Role">&#128465;</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<partial name="_AssignRoleSkillModal" />
+
+@section Scripts {
+    <script src="~/js/roleIndex.js"></script>
+}

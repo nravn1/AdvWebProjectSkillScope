@@ -1,0 +1,98 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #212121;
+    font-family: 'Segoe UI', sans-serif;
+    color: whitesmoke;
+}
+
+h1 {
+    /*color: #2c3e50;*/
+    color: goldenrod;
+}
+
+h4 {
+    color: goldenrod;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+p {
+    color: whitesmoke !important;
+}
+
+/* Custom navbar background */
+.navbar {
+    background-color: #171717 !important; /* Indigo blue */
+}
+
+/* Navbar text color */
+.navbar,
+.navbar .nav-link {
+    color: floralwhite !important;
+}
+
+.navbar .navbar-brand {
+    color: goldenrod;
+}
+
+/* Optional: Change color on hover */
+.navbar .nav-link:hover {
+    color: darkgoldenrod !important; /* Gold hover */
+}
+
+/* Change all table text color */
+table {
+    color: #dbdbdb !important; /* dark gray, or any hex color you want */
+}
+
+/* Optional: Header row */
+table thead th {
+    color: goldenrod;
+}
+
+table, table th, table td {
+    border: none !important;
+}
+
+/* Optional: Alternating row colors */
+table tbody tr:nth-child(even) {
+    background-color: #212121;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: #2b2b2b
+}
+
+
+/* Change the background of the modal itself */
+.modal-content {
+    background-color: #1e1e1e; /* dark background */
+    color: goldenrod; /* optional: change modal text */
+    border: none !important;
+}
+
+.modal {
+    border: none !important;
+}
+

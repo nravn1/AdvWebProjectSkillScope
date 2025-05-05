@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CSCI3110KRTERMPROJ.Controllers.SkillsApiController",
+    "Method": "GetAllSkills",
+    "RelativePath": "api/skills",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

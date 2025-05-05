@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CSCI3110KRTERMPROJ.Models.ViewModels.PrivilegeDetailsVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Privilege List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PrivilegeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrivilegeTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonCount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrivilegeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrivilegeTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonCount)
+            </td>
+            <td>
+                    <a asp-action="Update" asp-route-id="@item.PrivilegeId" title="Edit Privilege">&#128393;</a> |
+                    <a asp-action="Details" asp-route-id="@item.PrivilegeId" title="Privilege Details">&#128269;</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PrivilegeId" title="Delete Privilege">&#128465;</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

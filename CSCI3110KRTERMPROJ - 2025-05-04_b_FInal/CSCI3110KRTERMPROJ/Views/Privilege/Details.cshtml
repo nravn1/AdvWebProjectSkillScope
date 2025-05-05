@@ -1,0 +1,85 @@
+﻿@model CSCI3110KRTERMPROJ.Models.Privilege
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Privilege Details</h1>
+
+<div>
+    <hr />
+    <h3>Privilege</h3>
+
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PrivilegeId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PrivilegeId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PrivilegeTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PrivilegeTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Update" asp-route-id="@Model?.PrivilegeId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+<div>
+    <hr />
+    <h4>Persons With This Privilege</h4>
+    @*
+    <p>
+        <a asp-action="Create">Add Privilege Link</a>   
+    </p> 
+    *@
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Person Id
+                </th>
+                <th>
+                    First Name
+                </th>
+                <th>
+                    Last Name
+                </th>
+                <th>
+                    Type
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.PersonsWithThisPrivilege)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Person.PersonId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Person.FName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Person.LName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Person.TypeCode)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

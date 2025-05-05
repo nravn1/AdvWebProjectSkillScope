@@ -1,0 +1,23 @@
+﻿<div class="modal fade" id="assignSkillModal" tabindex="-1" role="dialog"
+     aria-labelledby="assignSkillModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div id="mainContent" class="modal-content">
+            <div class="modal-header">
+                <h5 class="modalTitle" id="assignSkillModalTitle">Choose an Skill:</h5>
+@*                 <button type="button" class="btn-close"
+                        data-bs-dismiss="modal" aria-label="Close">
+                </button> *@
+                <button id="btnAssignSkillClose" class="btn btn-primary">Close</button>
+            </div>
+
+
+            <div class="modal-body">
+                <partial name="_SkillList" />
+            </div>
+
+            <div class="modal-footer">
+                @* <button id="btnAssignSkillClose" class="btn btn-primary">Close</button> *@
+            </div>
+        </div>
+    </div>
+</div>

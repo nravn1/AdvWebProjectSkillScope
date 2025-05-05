@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CSCI3110KRTERM01
+build_property.RootNamespace = CSCI3110KRTERM01
+build_property.ProjectDir = C:\Projects\Nic_Code\ETSU CSCI 3119 Term Project\Temp\CSCI3110KRTERMPROJ\CSCI3110KRTERMPROJ\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\Nic_Code\ETSU CSCI 3119 Term Project\Temp\CSCI3110KRTERMPROJ\CSCI3110KRTERMPROJ
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/PersonPrivilege/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uUHJpdmlsZWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/_AssignPrivilegeModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXF9Bc3NpZ25Qcml2aWxlZ2VNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Person/_PrivilegeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXF9Qcml2aWxlZ2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Privilege/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmlsZWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Privilege/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmlsZWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Privilege/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmlsZWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Privilege/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmlsZWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Privilege/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmlsZWdlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/RoleSkill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVNraWxsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/IndexVM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleFZNLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Skill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Skill/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Skill/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Skill/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Nic_Code/ETSU CSCI 3119 Term Project/Temp/CSCI3110KRTERMPROJ/CSCI3110KRTERMPROJ/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-miuhfg4ifb

@@ -1,0 +1,23 @@
+﻿<div class="modal fade" id="assignPrivilegeModal" tabindex="-1" role="dialog"
+     aria-labelledby="assignPrivilegeModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div id="mainContent" class="modal-content">
+            <div class="modal-header">
+                <h5 class="modalTitle" id="assignPrivilegeModalTitle">Choose an Privilege:</h5>
+                @*<button type="button" class="btn-close"
+                        data-bs-dismiss="modal" aria-label="Close">
+                </button>*@
+                <button id="btnAssignPrivilegeClose" class="btn btn-primary">Close</button>
+            </div>
+
+            <div class="modal-body">
+                <partial name="_PrivilegeList" />
+            </div>
+
+            <div class="modal-footer">
+                @* <button id="btnAssignPrivilegeClose" class="btn btn-primary">Close</button> *@
+            </div>
+
+        </div>
+    </div>
+</div>

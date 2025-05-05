@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\services\\dbbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\services\\dbbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|c:\\users\\kaira\\source\\repos\\csci3110krl02crrud\\csci3110krl02crrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6B6AB2-172F-4947-AF97-43586817083D}|CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD.csproj|solutionrelative:csci3110krl02crrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:46:12.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:25:52.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\DbBookRepository.cs",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Services\\DbBookRepository.cs",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\DbBookRepository.cs",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Services\\DbBookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:31.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Services\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\IBookRepository.cs",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Services\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:23:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T18:08:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T17:45:03.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Program.cs",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:57:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\appsettings.json",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T16:56:04.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CSCI3110KRL02CRRUD\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kaira\\source\\repos\\CSCI3110KRL02CRRUD\\CSCI3110KRL02CRRUD\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CSCI3110KRL02CRRUD\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:55:14.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
